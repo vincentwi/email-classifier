@@ -1,4 +1,4 @@
-# kaggle-2020
+# email classifier
 
 Using Catboost, LGBM, logistic regrssino, multilabel RF and kNN
 
